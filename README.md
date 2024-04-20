@@ -9,6 +9,13 @@ Ensure you have Python installed on your system. You'll also need to install the
 ```bash
 pip install pytube opencv-python-headless
 ```
+## Installing Dependencies
+
+You can install the required dependencies using the `requirements.txt` file:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Usage
 
